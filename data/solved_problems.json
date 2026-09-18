@@ -1,5 +1,5 @@
 {
-  "total_solved": 194,
+  "total_solved": 196,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -194,7 +194,9 @@
     "SST",
     "QUALIFY",
     "DOREWARD",
-    "MAXTASTE"
+    "MAXTASTE",
+    "CHEFBOTTLE",
+    "TASTEDEC"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1556,6 +1558,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-18 13:37:39"
+    },
+    {
+      "code": "CHEFBOTTLE",
+      "name": "Chef and Water Bottles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 17:15:27"
+    },
+    {
+      "code": "TASTEDEC",
+      "name": "Tasty Decisions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 17:17:15"
     }
   ]
 }
