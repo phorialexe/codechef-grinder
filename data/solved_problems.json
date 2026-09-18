@@ -1,5 +1,5 @@
 {
-  "total_solved": 190,
+  "total_solved": 194,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -190,7 +190,11 @@
     "PODIUM",
     "WGHTS",
     "KITCHENSPICE",
-    "MONOPOLY"
+    "MONOPOLY",
+    "SST",
+    "QUALIFY",
+    "DOREWARD",
+    "MAXTASTE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1524,6 +1528,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-18 05:33:33"
+    },
+    {
+      "code": "SST",
+      "name": "Sasta Shark Tank",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 13:33:20"
+    },
+    {
+      "code": "QUALIFY",
+      "name": "Qualify the round",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 13:35:21"
+    },
+    {
+      "code": "DOREWARD",
+      "name": "Donation Rewards",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 13:36:38"
+    },
+    {
+      "code": "MAXTASTE",
+      "name": "Maximise the Tastiness",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-18 13:37:39"
     }
   ]
 }
