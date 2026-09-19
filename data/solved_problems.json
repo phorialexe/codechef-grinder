@@ -1,5 +1,5 @@
 {
-  "total_solved": 217,
+  "total_solved": 220,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -217,12 +217,16 @@
     "MAXDIFFMIN",
     "SONGS",
     "CGYM",
-    "ENSPACE"
+    "ENSPACE",
+    "FLIPCARDS",
+    "APPLORNG",
+    "AIRHOCKEY"
   ],
   "failed_codes": [
     "CCLEARN",
     "KITCHENCOST",
-    "CREDS"
+    "CREDS",
+    "ODDSUMPAIR"
   ],
   "history": [
     {
@@ -1740,6 +1744,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-19 16:54:44"
+    },
+    {
+      "code": "FLIPCARDS",
+      "name": "Flip the cards",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 19:37:20"
+    },
+    {
+      "code": "APPLORNG",
+      "name": "Apples and Oranges",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 19:38:36"
+    },
+    {
+      "code": "AIRHOCKEY",
+      "name": "Air Hockey",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 19:39:35"
     }
   ]
 }
