@@ -1,5 +1,5 @@
 {
-  "total_solved": 202,
+  "total_solved": 208,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -202,7 +202,13 @@
     "PROINC",
     "CHEFCHOCO",
     "WATERFLOW",
-    "RUNCOMPARE"
+    "RUNCOMPARE",
+    "CHN15A",
+    "POLTHIEF",
+    "MINCOINS",
+    "TRICOIN",
+    "DOMINANT",
+    "HORSES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1620,6 +1626,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-18 20:08:37"
+    },
+    {
+      "code": "CHN15A",
+      "name": "Mutated Minions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 09:00:33"
+    },
+    {
+      "code": "POLTHIEF",
+      "name": "Police and Thief",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 09:02:27"
+    },
+    {
+      "code": "MINCOINS",
+      "name": "Minimum number of coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 09:03:59"
+    },
+    {
+      "code": "TRICOIN",
+      "name": "Coins And Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 09:05:28"
+    },
+    {
+      "code": "DOMINANT",
+      "name": "Dominant Army",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 09:06:20"
+    },
+    {
+      "code": "HORSES",
+      "name": "Racing Horses",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-19 09:08:01"
     }
   ]
 }
