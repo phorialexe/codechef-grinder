@@ -1,5 +1,5 @@
 {
-  "total_solved": 231,
+  "total_solved": 237,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -231,7 +231,13 @@
     "CS2023_GIFT",
     "FLOORS",
     "SELFDEF",
-    "EXPIRY"
+    "EXPIRY",
+    "VALENTINE",
+    "SEATNUMBER",
+    "TRANSFORM",
+    "CRICUP",
+    "JOHNY",
+    "EMAILREM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1853,6 +1859,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-20 13:41:34"
+    },
+    {
+      "code": "VALENTINE",
+      "name": "Valentine is Coming",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 17:01:35"
+    },
+    {
+      "code": "SEATNUMBER",
+      "name": "Bus  Seat Numbering",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 17:03:08"
+    },
+    {
+      "code": "TRANSFORM",
+      "name": "Mario and Transformation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 17:04:23"
+    },
+    {
+      "code": "CRICUP",
+      "name": "Cup Finals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 17:06:21"
+    },
+    {
+      "code": "JOHNY",
+      "name": "Uncle Johny",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 17:08:07"
+    },
+    {
+      "code": "EMAILREM",
+      "name": "Email Reminders",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 17:09:27"
     }
   ]
 }
