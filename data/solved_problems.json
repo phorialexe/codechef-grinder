@@ -1,5 +1,5 @@
 {
-  "total_solved": 225,
+  "total_solved": 231,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -225,7 +225,13 @@
     "CHESSDIST",
     "BLACKJACK",
     "BUILDINGRACE",
-    "CIELRCPT"
+    "CIELRCPT",
+    "COMPRESSVD",
+    "IDESM",
+    "CS2023_GIFT",
+    "FLOORS",
+    "SELFDEF",
+    "EXPIRY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1805,6 +1811,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-20 09:34:22"
+    },
+    {
+      "code": "COMPRESSVD",
+      "name": "Compress the Video",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:33:19"
+    },
+    {
+      "code": "IDESM",
+      "name": "The Ides of March",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:35:01"
+    },
+    {
+      "code": "CS2023_GIFT",
+      "name": "The Gift",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:36:25"
+    },
+    {
+      "code": "FLOORS",
+      "name": "Too many Floors",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:38:05"
+    },
+    {
+      "code": "SELFDEF",
+      "name": "Self Defence Training",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:39:43"
+    },
+    {
+      "code": "EXPIRY",
+      "name": "Expiring Bread",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 13:41:34"
     }
   ]
 }
