@@ -1,5 +1,5 @@
 {
-  "total_solved": 237,
+  "total_solved": 240,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -237,7 +237,10 @@
     "TRANSFORM",
     "CRICUP",
     "JOHNY",
-    "EMAILREM"
+    "EMAILREM",
+    "CYCLICQD",
+    "AORB",
+    "BULLET"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1901,6 +1904,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-20 17:09:27"
+    },
+    {
+      "code": "CYCLICQD",
+      "name": "Cyclic Quadrilateral",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 19:49:51"
+    },
+    {
+      "code": "AORB",
+      "name": "A or B",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 19:51:31"
+    },
+    {
+      "code": "BULLET",
+      "name": "Mario and Bullet",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-20 19:53:11"
     }
   ]
 }
