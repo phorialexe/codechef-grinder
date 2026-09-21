@@ -1,5 +1,5 @@
 {
-  "total_solved": 245,
+  "total_solved": 249,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -245,7 +245,11 @@
     "ADVANCE",
     "SEVENRINGS",
     "C_RATING",
-    "WATERCOOLER2"
+    "WATERCOOLER2",
+    "NEWSPAPER",
+    "FOOTCUP",
+    "DIFFCONSEC",
+    "CNDY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1965,6 +1969,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-21 10:20:07"
+    },
+    {
+      "code": "NEWSPAPER",
+      "name": "Sports Section",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 15:51:41"
+    },
+    {
+      "code": "FOOTCUP",
+      "name": "Football Cup",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 15:53:36"
+    },
+    {
+      "code": "DIFFCONSEC",
+      "name": "Different Consecutive Characters ",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-21 15:57:01"
+    },
+    {
+      "code": "CNDY",
+      "name": "Candies",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-21 16:02:12"
     }
   ]
 }
