@@ -1,5 +1,5 @@
 {
-  "total_solved": 240,
+  "total_solved": 245,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -240,7 +240,12 @@
     "EMAILREM",
     "CYCLICQD",
     "AORB",
-    "BULLET"
+    "BULLET",
+    "SPEEDTEST",
+    "ADVANCE",
+    "SEVENRINGS",
+    "C_RATING",
+    "WATERCOOLER2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1925,6 +1930,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-20 19:53:11"
+    },
+    {
+      "code": "SPEEDTEST",
+      "name": "Speed Limit Test",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:14:47"
+    },
+    {
+      "code": "ADVANCE",
+      "name": "Rating Improvement",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:16:06"
+    },
+    {
+      "code": "SEVENRINGS",
+      "name": "7 Rings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:17:09"
+    },
+    {
+      "code": "C_RATING",
+      "name": "Chess Ratings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:18:14"
+    },
+    {
+      "code": "WATERCOOLER2",
+      "name": "The Cooler Dilemma 2",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 10:20:07"
     }
   ]
 }
