@@ -1,5 +1,5 @@
 {
-  "total_solved": 249,
+  "total_solved": 254,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -249,7 +249,12 @@
     "NEWSPAPER",
     "FOOTCUP",
     "DIFFCONSEC",
-    "CNDY"
+    "CNDY",
+    "T20MCH",
+    "PPSUM",
+    "LAZYCHF",
+    "HEALSE",
+    "AIRLINE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -1997,6 +2002,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-09-21 16:02:12"
+    },
+    {
+      "code": "T20MCH",
+      "name": "Possible Victory",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 18:55:15"
+    },
+    {
+      "code": "PPSUM",
+      "name": "Puppy and Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 18:56:45"
+    },
+    {
+      "code": "LAZYCHF",
+      "name": "Lazy Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 18:58:40"
+    },
+    {
+      "code": "HEALSE",
+      "name": "Healthy Sleep",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 19:00:11"
+    },
+    {
+      "code": "AIRLINE",
+      "name": "Airline Restrictions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-21 19:01:17"
     }
   ]
 }
