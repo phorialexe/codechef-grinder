@@ -1,5 +1,5 @@
 {
-  "total_solved": 260,
+  "total_solved": 264,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -260,7 +260,11 @@
     "DNASTRAND",
     "ADVITIYA1",
     "COCONUT",
-    "ACPLZ"
+    "ACPLZ",
+    "POLYBAGS",
+    "PASSTHEEXAM",
+    "FILLCANDIES",
+    "WCC"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2085,6 +2089,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-21 21:23:49"
+    },
+    {
+      "code": "POLYBAGS",
+      "name": "Too many items",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 09:30:29"
+    },
+    {
+      "code": "PASSTHEEXAM",
+      "name": "Pass the Exam",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 09:32:03"
+    },
+    {
+      "code": "FILLCANDIES",
+      "name": "Fill Candies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 09:33:03"
+    },
+    {
+      "code": "WCC",
+      "name": "World Chess Championship",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 09:34:51"
     }
   ]
 }
