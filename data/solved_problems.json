@@ -1,5 +1,5 @@
 {
-  "total_solved": 264,
+  "total_solved": 269,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -264,7 +264,12 @@
     "POLYBAGS",
     "PASSTHEEXAM",
     "FILLCANDIES",
-    "WCC"
+    "WCC",
+    "THALA7",
+    "CODECHEF",
+    "CIELAB",
+    "CHEFAPPS",
+    "CANCHEF"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2117,6 +2122,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-22 09:34:51"
+    },
+    {
+      "code": "THALA7",
+      "name": "Thala For A Reason",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:47:36"
+    },
+    {
+      "code": "CODECHEF",
+      "name": "Codechef Round",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-22 17:51:03"
+    },
+    {
+      "code": "CIELAB",
+      "name": "Ciel and A-B Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:53:01"
+    },
+    {
+      "code": "CHEFAPPS",
+      "name": "Chef and his Apps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:53:57"
+    },
+    {
+      "code": "CANCHEF",
+      "name": "Can Chef ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 17:55:17"
     }
   ]
 }
