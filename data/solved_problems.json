@@ -1,5 +1,5 @@
 {
-  "total_solved": 269,
+  "total_solved": 272,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -269,7 +269,10 @@
     "CODECHEF",
     "CIELAB",
     "CHEFAPPS",
-    "CANCHEF"
+    "CANCHEF",
+    "DPOLY",
+    "SHOPCHANGE",
+    "CHEFEREN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2157,6 +2160,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-22 17:55:17"
+    },
+    {
+      "code": "DPOLY",
+      "name": "Degree of Polynomial",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 20:30:29"
+    },
+    {
+      "code": "SHOPCHANGE",
+      "name": "Shopping Change",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 20:31:58"
+    },
+    {
+      "code": "CHEFEREN",
+      "name": "Chef Eren",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-22 20:33:02"
     }
   ]
 }
