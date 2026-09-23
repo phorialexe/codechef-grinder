@@ -283,7 +283,11 @@
     "CCLEARN",
     "KITCHENCOST",
     "CREDS",
-    "ODDSUMPAIR"
+    "ODDSUMPAIR",
+    "ZCOSCH",
+    "HDIVISR",
+    "CHEFSTLT",
+    "FLOW011"
   ],
   "history": [
     {
