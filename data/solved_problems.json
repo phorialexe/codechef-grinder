@@ -1,5 +1,5 @@
 {
-  "total_solved": 272,
+  "total_solved": 277,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -272,7 +272,12 @@
     "CANCHEF",
     "DPOLY",
     "SHOPCHANGE",
-    "CHEFEREN"
+    "CHEFEREN",
+    "RCBPLAY",
+    "SPCP2",
+    "CHEFPAROLE",
+    "HIGHSCORE",
+    "WATSCORE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2181,6 +2186,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-22 20:33:02"
+    },
+    {
+      "code": "RCBPLAY",
+      "name": "RCB and Playoffs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 09:35:39"
+    },
+    {
+      "code": "SPCP2",
+      "name": "Airlines",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 09:37:01"
+    },
+    {
+      "code": "CHEFPAROLE",
+      "name": "Chef and Parole",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 09:39:02"
+    },
+    {
+      "code": "HIGHSCORE",
+      "name": "Score High",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 09:41:50"
+    },
+    {
+      "code": "WATSCORE",
+      "name": "That Is My Score!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-23 09:44:25"
     }
   ]
 }
