@@ -1,5 +1,5 @@
 {
-  "total_solved": 289,
+  "total_solved": 293,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -289,7 +289,11 @@
     "ALGOFINALS",
     "KTTABLE",
     "VOWELTB",
-    "FLOW009"
+    "FLOW009",
+    "PRESENTS",
+    "BIN_BAT",
+    "BETDEAL",
+    "DIET"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2333,6 +2337,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-24 09:41:51"
+    },
+    {
+      "code": "PRESENTS",
+      "name": "Presents for Cheffina",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 20:48:33"
+    },
+    {
+      "code": "BIN_BAT",
+      "name": "Binary Battles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 20:50:31"
+    },
+    {
+      "code": "BETDEAL",
+      "name": "Better Deal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 20:52:31"
+    },
+    {
+      "code": "DIET",
+      "name": "Chef Diet",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-24 20:54:33"
     }
   ]
 }
