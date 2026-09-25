@@ -1,5 +1,5 @@
 {
-  "total_solved": 293,
+  "total_solved": 298,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -293,7 +293,12 @@
     "PRESENTS",
     "BIN_BAT",
     "BETDEAL",
-    "DIET"
+    "DIET",
+    "ZOOZ",
+    "CCOV",
+    "MIXTURE",
+    "CANDY123",
+    "SALE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -315,7 +320,8 @@
     "IOI2024",
     "VARDIGS",
     "SWEETSHOP",
-    "ELECTIONS"
+    "ELECTIONS",
+    "ICECONE"
   ],
   "history": [
     {
@@ -2365,6 +2371,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-24 20:54:33"
+    },
+    {
+      "code": "ZOOZ",
+      "name": "Zero Ones Equal One Zeros",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-25 09:51:34"
+    },
+    {
+      "code": "CCOV",
+      "name": "Overspeeding",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-25 09:53:51"
+    },
+    {
+      "code": "MIXTURE",
+      "name": "Which Mixture",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 09:56:33"
+    },
+    {
+      "code": "CANDY123",
+      "name": "Bear and Candies 123",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-25 09:59:18"
+    },
+    {
+      "code": "SALE",
+      "name": "Get Lowest Free",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 10:01:22"
     }
   ]
 }
