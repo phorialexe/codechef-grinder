@@ -1,5 +1,5 @@
 {
-  "total_solved": 301,
+  "total_solved": 304,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -301,7 +301,10 @@
     "SALE",
     "MOZZ",
     "DIGARR",
-    "FOODBAL"
+    "FOODBAL",
+    "DICEGAME2",
+    "RECTANGL",
+    "SUMTRIAN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -324,7 +327,8 @@
     "VARDIGS",
     "SWEETSHOP",
     "ELECTIONS",
-    "ICECONE"
+    "ICECONE",
+    "ANSLEAK"
   ],
   "history": [
     {
@@ -2430,6 +2434,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-25 14:41:31"
+    },
+    {
+      "code": "DICEGAME2",
+      "name": "Best of Two",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-25 18:06:54"
+    },
+    {
+      "code": "RECTANGL",
+      "name": "Rectangle",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-25 18:08:18"
+    },
+    {
+      "code": "SUMTRIAN",
+      "name": "Sums in a Triangle",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-25 18:10:58"
     }
   ]
 }
