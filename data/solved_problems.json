@@ -1,5 +1,5 @@
 {
-  "total_solved": 319,
+  "total_solved": 323,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -319,7 +319,11 @@
     "OLYRANK",
     "VAL114",
     "BLOBBYVOLLEY",
-    "BREAKSTICK"
+    "BREAKSTICK",
+    "PRICECON",
+    "HARDBET",
+    "JCOINS",
+    "CHOLY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2575,6 +2579,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-26 13:47:56"
+    },
+    {
+      "code": "PRICECON",
+      "name": "Chef and Price Control",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 17:24:27"
+    },
+    {
+      "code": "HARDBET",
+      "name": "Hardest Problem Bet",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 17:26:13"
+    },
+    {
+      "code": "JCOINS",
+      "name": "Janmansh and Coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 17:28:06"
+    },
+    {
+      "code": "CHOLY",
+      "name": "Chess Olympiad",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 17:29:19"
     }
   ]
 }
