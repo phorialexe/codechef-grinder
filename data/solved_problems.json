@@ -1,5 +1,5 @@
 {
-  "total_solved": 308,
+  "total_solved": 314,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -308,7 +308,13 @@
     "SUPCHEF",
     "MINFLIPS",
     "HEADBOB",
-    "ADJSUMPAR"
+    "ADJSUMPAR",
+    "CONFLIP",
+    "XYSTR",
+    "SINGLEUSE",
+    "RUSHTOEXAM",
+    "TWOVSTEN",
+    "GDOG"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2487,6 +2493,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-25 20:50:50"
+    },
+    {
+      "code": "CONFLIP",
+      "name": "Coin Flip",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 09:34:02"
+    },
+    {
+      "code": "XYSTR",
+      "name": "Chef and String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 09:35:56"
+    },
+    {
+      "code": "SINGLEUSE",
+      "name": "Single-use Attack",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 09:37:47"
+    },
+    {
+      "code": "RUSHTOEXAM",
+      "name": "Rush to Exam",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 09:39:56"
+    },
+    {
+      "code": "TWOVSTEN",
+      "name": "Two vs Ten",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 09:41:38"
+    },
+    {
+      "code": "GDOG",
+      "name": "Greedy puppy",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 09:42:45"
     }
   ]
 }
