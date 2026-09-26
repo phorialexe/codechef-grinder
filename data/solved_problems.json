@@ -1,5 +1,5 @@
 {
-  "total_solved": 323,
+  "total_solved": 328,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -323,7 +323,12 @@
     "PRICECON",
     "HARDBET",
     "JCOINS",
-    "CHOLY"
+    "CHOLY",
+    "FIZZBUZZ2301",
+    "LUCLO",
+    "CRICKETUDYAM",
+    "PRIMEREVERSE",
+    "PRIMEDICE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2607,6 +2612,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-26 17:29:19"
+    },
+    {
+      "code": "FIZZBUZZ2301",
+      "name": "Fan Poll",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:11:48"
+    },
+    {
+      "code": "LUCLO",
+      "name": "Lucky Clover",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:13:11"
+    },
+    {
+      "code": "CRICKETUDYAM",
+      "name": "Cricket Tournament",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:14:10"
+    },
+    {
+      "code": "PRIMEREVERSE",
+      "name": "Prime Reversal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:15:45"
+    },
+    {
+      "code": "PRIMEDICE",
+      "name": "Hackerman",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 20:17:57"
     }
   ]
 }
