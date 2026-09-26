@@ -1,5 +1,5 @@
 {
-  "total_solved": 314,
+  "total_solved": 319,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -314,7 +314,12 @@
     "SINGLEUSE",
     "RUSHTOEXAM",
     "TWOVSTEN",
-    "GDOG"
+    "GDOG",
+    "REACHFAST",
+    "OLYRANK",
+    "VAL114",
+    "BLOBBYVOLLEY",
+    "BREAKSTICK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2535,6 +2540,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-26 09:42:45"
+    },
+    {
+      "code": "REACHFAST",
+      "name": "Reach fast",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 13:43:17"
+    },
+    {
+      "code": "OLYRANK",
+      "name": "Olympics Ranking",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 13:44:11"
+    },
+    {
+      "code": "VAL114",
+      "name": "Valentines Contest",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 13:45:42"
+    },
+    {
+      "code": "BLOBBYVOLLEY",
+      "name": "Blobby Volley Scores",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 13:46:58"
+    },
+    {
+      "code": "BREAKSTICK",
+      "name": "Break the Stick",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-26 13:47:56"
     }
   ]
 }
