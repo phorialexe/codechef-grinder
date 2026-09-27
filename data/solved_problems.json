@@ -1,5 +1,5 @@
 {
-  "total_solved": 346,
+  "total_solved": 348,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -346,7 +346,9 @@
     "SOCKS1",
     "NGRS",
     "IED",
-    "AREAPERI"
+    "AREAPERI",
+    "COLDPLAYTICK",
+    "MSNSADM1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2791,6 +2793,20 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-27 18:03:55"
+    },
+    {
+      "code": "COLDPLAYTICK",
+      "name": "Coldplay Tickets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 20:27:28"
+    },
+    {
+      "code": "MSNSADM1",
+      "name": "Football",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 20:29:05"
     }
   ]
 }
