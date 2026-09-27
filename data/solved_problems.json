@@ -1,5 +1,5 @@
 {
-  "total_solved": 334,
+  "total_solved": 340,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -334,7 +334,13 @@
     "DEVDON",
     "PLAYSTR",
     "CHEAT",
-    "DISTINCTCOL"
+    "DISTINCTCOL",
+    "ELHP",
+    "WEIGHTLIFT",
+    "ICECONE6",
+    "REMOVECARDS",
+    "BALLBOX",
+    "EXPENSES"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2695,6 +2701,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-27 10:20:01"
+    },
+    {
+      "code": "ELHP",
+      "name": "Election Hopes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 14:40:03"
+    },
+    {
+      "code": "WEIGHTLIFT",
+      "name": "Weightlifting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 14:42:15"
+    },
+    {
+      "code": "ICECONE6",
+      "name": "IceCream Cones",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 14:43:33"
+    },
+    {
+      "code": "REMOVECARDS",
+      "name": "Card Removal",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 14:44:29"
+    },
+    {
+      "code": "BALLBOX",
+      "name": "Balls and Boxes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 14:46:22"
+    },
+    {
+      "code": "EXPENSES",
+      "name": "Expense List",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-27 14:47:46"
     }
   ]
 }
