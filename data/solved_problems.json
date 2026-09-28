@@ -1,5 +1,5 @@
 {
-  "total_solved": 357,
+  "total_solved": 361,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -357,7 +357,11 @@
     "RURT",
     "ODDPAIRS",
     "MOVEMENT",
-    "GOODWEAT"
+    "GOODWEAT",
+    "SLOWSOLN",
+    "ENCMSG",
+    "ACCURACY",
+    "ACS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2879,6 +2883,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-28 17:48:27"
+    },
+    {
+      "code": "SLOWSOLN",
+      "name": "Slow Solution",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 20:15:21"
+    },
+    {
+      "code": "ENCMSG",
+      "name": "Encoding Message",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 20:17:03"
+    },
+    {
+      "code": "ACCURACY",
+      "name": "High Accuracy",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 20:18:06"
+    },
+    {
+      "code": "ACS",
+      "name": "Count the ACs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 20:19:31"
     }
   ]
 }
