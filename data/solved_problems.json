@@ -1,5 +1,5 @@
 {
-  "total_solved": 348,
+  "total_solved": 352,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -348,7 +348,11 @@
     "IED",
     "AREAPERI",
     "COLDPLAYTICK",
-    "MSNSADM1"
+    "MSNSADM1",
+    "BINPARITY",
+    "LOCKDRAW",
+    "CUTOFF",
+    "OLYMPICS24"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2807,6 +2811,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-27 20:29:05"
+    },
+    {
+      "code": "BINPARITY",
+      "name": "Binary Parity",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 11:16:42"
+    },
+    {
+      "code": "LOCKDRAW",
+      "name": "Chef and Lockout Draws",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 11:18:34"
+    },
+    {
+      "code": "CUTOFF",
+      "name": "Passing Marks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 11:19:46"
+    },
+    {
+      "code": "OLYMPICS24",
+      "name": "Olympics 2024",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 11:21:25"
     }
   ]
 }
