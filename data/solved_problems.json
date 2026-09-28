@@ -1,5 +1,5 @@
 {
-  "total_solved": 361,
+  "total_solved": 367,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -361,7 +361,13 @@
     "SLOWSOLN",
     "ENCMSG",
     "ACCURACY",
-    "ACS"
+    "ACS",
+    "LEGSP",
+    "SNCKYEAR",
+    "SQUIDRULE",
+    "CHANGEPOS",
+    "CHEFSTR1",
+    "BLITZ3_2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2911,6 +2917,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-28 20:19:31"
+    },
+    {
+      "code": "LEGSP",
+      "name": "Leg Space",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 22:39:26"
+    },
+    {
+      "code": "SNCKYEAR",
+      "name": "Chef and SnackDown",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 22:41:37"
+    },
+    {
+      "code": "SQUIDRULE",
+      "name": "The Squid Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 22:42:57"
+    },
+    {
+      "code": "CHANGEPOS",
+      "name": "Change Row and Column Both",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 22:45:11"
+    },
+    {
+      "code": "CHEFSTR1",
+      "name": "Chef and Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 22:46:11"
+    },
+    {
+      "code": "BLITZ3_2",
+      "name": "Chess Match",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-28 22:47:13"
     }
   ]
 }
