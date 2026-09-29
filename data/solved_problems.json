@@ -1,5 +1,5 @@
 {
-  "total_solved": 367,
+  "total_solved": 372,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -367,7 +367,12 @@
     "SQUIDRULE",
     "CHANGEPOS",
     "CHEFSTR1",
-    "BLITZ3_2"
+    "BLITZ3_2",
+    "CCISLAND",
+    "PBREV",
+    "COVID19",
+    "CLEARANCE",
+    "INCAT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2959,6 +2964,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-28 22:47:13"
+    },
+    {
+      "code": "CCISLAND",
+      "name": "Chef On Island",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 10:55:54"
+    },
+    {
+      "code": "PBREV",
+      "name": "Problem Reviews",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 10:57:59"
+    },
+    {
+      "code": "COVID19",
+      "name": "Coronavirus Spread",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 10:59:46"
+    },
+    {
+      "code": "CLEARANCE",
+      "name": "Clearance Sale",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-09-29 11:02:09"
+    },
+    {
+      "code": "INCAT",
+      "name": "Make Cat",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 11:03:23"
     }
   ]
 }
