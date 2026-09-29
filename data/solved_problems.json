@@ -1,5 +1,5 @@
 {
-  "total_solved": 377,
+  "total_solved": 383,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -377,7 +377,13 @@
     "PAYSC",
     "WECNITK",
     "MNR",
-    "RCBCSK"
+    "RCBCSK",
+    "PETSTORE",
+    "HEATWAVE",
+    "YOGADAY",
+    "SMLPAL",
+    "LECANDY",
+    "MOVPR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3039,6 +3045,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-29 15:46:41"
+    },
+    {
+      "code": "PETSTORE",
+      "name": "Pet Store",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 18:53:49"
+    },
+    {
+      "code": "HEATWAVE",
+      "name": "Heat Wave",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 18:55:16"
+    },
+    {
+      "code": "YOGADAY",
+      "name": "Yoga Day",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 18:56:32"
+    },
+    {
+      "code": "SMLPAL",
+      "name": "Small Palindrome",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 18:58:22"
+    },
+    {
+      "code": "LECANDY",
+      "name": "Little Elephant and Candies",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 18:59:42"
+    },
+    {
+      "code": "MOVPR",
+      "name": "Movie Snacks",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-09-29 19:01:52"
     }
   ]
 }
