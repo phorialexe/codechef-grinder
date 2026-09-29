@@ -1,5 +1,5 @@
 {
-  "total_solved": 383,
+  "total_solved": 387,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -383,7 +383,11 @@
     "YOGADAY",
     "SMLPAL",
     "LECANDY",
-    "MOVPR"
+    "MOVPR",
+    "FOODPLAN",
+    "R5S",
+    "CRICMATCH",
+    "CHSFORMT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3087,6 +3091,34 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-09-29 19:01:52"
+    },
+    {
+      "code": "FOODPLAN",
+      "name": "Online or Offline",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-09-29 21:33:28"
+    },
+    {
+      "code": "R5S",
+      "name": "Reach 5 Star",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 21:35:03"
+    },
+    {
+      "code": "CRICMATCH",
+      "name": "Cricket Match",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 21:36:27"
+    },
+    {
+      "code": "CHSFORMT",
+      "name": "Chess Format",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 21:38:19"
     }
   ]
 }
