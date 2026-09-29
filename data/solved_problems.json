@@ -1,5 +1,5 @@
 {
-  "total_solved": 372,
+  "total_solved": 377,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -372,7 +372,12 @@
     "PBREV",
     "COVID19",
     "CLEARANCE",
-    "INCAT"
+    "INCAT",
+    "NONNEGPROD",
+    "PAYSC",
+    "WECNITK",
+    "MNR",
+    "RCBCSK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -2999,6 +3004,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-29 11:03:23"
+    },
+    {
+      "code": "NONNEGPROD",
+      "name": "Non-Negative Product",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 15:40:03"
+    },
+    {
+      "code": "PAYSC",
+      "name": "Payment Scheme",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-29 15:42:09"
+    },
+    {
+      "code": "WECNITK",
+      "name": "Access Code Equality",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 15:44:13"
+    },
+    {
+      "code": "MNR",
+      "name": "Range Minimize",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 15:45:18"
+    },
+    {
+      "code": "RCBCSK",
+      "name": "RCB vs CSK ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-29 15:46:41"
     }
   ]
 }
