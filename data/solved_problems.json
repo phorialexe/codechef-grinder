@@ -1,5 +1,5 @@
 {
-  "total_solved": 391,
+  "total_solved": 396,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -391,7 +391,12 @@
     "DOMINANT2",
     "CASHBACK",
     "SOLBLTY",
-    "LUCKYFR"
+    "LUCKYFR",
+    "P2149",
+    "ADVITIYA2",
+    "CONN",
+    "ROOMALLOC",
+    "LUCKYNUM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -415,7 +420,8 @@
     "SWEETSHOP",
     "ELECTIONS",
     "ICECONE",
-    "ANSLEAK"
+    "ANSLEAK",
+    "QNOT"
   ],
   "history": [
     {
@@ -3151,6 +3157,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-30 10:50:19"
+    },
+    {
+      "code": "P2149",
+      "name": "Magical World",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:50:45"
+    },
+    {
+      "code": "ADVITIYA2",
+      "name": "Judged",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:51:55"
+    },
+    {
+      "code": "CONN",
+      "name": "Construct N",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:53:16"
+    },
+    {
+      "code": "ROOMALLOC",
+      "name": "Room Allocation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:56:27"
+    },
+    {
+      "code": "LUCKYNUM",
+      "name": "Lucky Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 15:57:31"
     }
   ]
 }
