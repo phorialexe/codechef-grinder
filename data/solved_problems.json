@@ -1,5 +1,5 @@
 {
-  "total_solved": 402,
+  "total_solved": 407,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -402,7 +402,12 @@
     "NOTIME",
     "JUSTICE",
     "WINNERR",
-    "HOWMANY"
+    "HOWMANY",
+    "BOX2",
+    "MINBOTTLES",
+    "MODULO3",
+    "LINCHESS",
+    "SPCP1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3240,6 +3245,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-30 18:45:01"
+    },
+    {
+      "code": "BOX2",
+      "name": "2 Boxes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 21:33:19"
+    },
+    {
+      "code": "MINBOTTLES",
+      "name": "Minimum Bottles",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 21:35:23"
+    },
+    {
+      "code": "MODULO3",
+      "name": "Divisible by 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 21:36:36"
+    },
+    {
+      "code": "LINCHESS",
+      "name": "Chef and Linear Chess",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 21:38:15"
+    },
+    {
+      "code": "SPCP1",
+      "name": "Water Park",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 21:39:46"
     }
   ]
 }
