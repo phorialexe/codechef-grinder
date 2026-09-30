@@ -1,5 +1,5 @@
 {
-  "total_solved": 387,
+  "total_solved": 391,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -387,7 +387,11 @@
     "FOODPLAN",
     "R5S",
     "CRICMATCH",
-    "CHSFORMT"
+    "CHSFORMT",
+    "DOMINANT2",
+    "CASHBACK",
+    "SOLBLTY",
+    "LUCKYFR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3119,6 +3123,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-29 21:38:19"
+    },
+    {
+      "code": "DOMINANT2",
+      "name": "Dominant Element",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 10:46:45"
+    },
+    {
+      "code": "CASHBACK",
+      "name": "Cashback",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-09-30 10:47:56"
+    },
+    {
+      "code": "SOLBLTY",
+      "name": "Solubility",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 10:48:58"
+    },
+    {
+      "code": "LUCKYFR",
+      "name": "Lucky Four",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-09-30 10:50:19"
     }
   ]
 }
