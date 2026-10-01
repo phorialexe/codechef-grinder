@@ -1,5 +1,5 @@
 {
-  "total_solved": 417,
+  "total_solved": 422,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -417,7 +417,12 @@
     "FACEDIR",
     "AP",
     "BROKPHON",
-    "SUBAADDB"
+    "SUBAADDB",
+    "LONGQUEUE",
+    "VIDEOWORTH",
+    "BIRDFARM",
+    "GPUBUY",
+    "ALLEV"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3361,6 +3366,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-01 16:26:16"
+    },
+    {
+      "code": "LONGQUEUE",
+      "name": "Long Queue",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 19:04:20"
+    },
+    {
+      "code": "VIDEOWORTH",
+      "name": "Worth of a Video",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 19:05:40"
+    },
+    {
+      "code": "BIRDFARM",
+      "name": "Chef and Bird farm",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 19:06:48"
+    },
+    {
+      "code": "GPUBUY",
+      "name": "Buying GPU",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 19:08:49"
+    },
+    {
+      "code": "ALLEV",
+      "name": "All Even",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 19:09:47"
     }
   ]
 }
