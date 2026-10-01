@@ -1,5 +1,5 @@
 {
-  "total_solved": 412,
+  "total_solved": 417,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -412,7 +412,12 @@
     "CHEFPAGES",
     "GENE01",
     "CHEFSOCKS",
-    "PRIME1"
+    "PRIME1",
+    "CABLE",
+    "FACEDIR",
+    "AP",
+    "BROKPHON",
+    "SUBAADDB"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3321,6 +3326,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-01 11:19:29"
+    },
+    {
+      "code": "CABLE",
+      "name": "Volume Comparison",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 16:18:18"
+    },
+    {
+      "code": "FACEDIR",
+      "name": "Find the Direction",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-01 16:20:42"
+    },
+    {
+      "code": "AP",
+      "name": "Make Arithmetic Progression",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-01 16:22:50"
+    },
+    {
+      "code": "BROKPHON",
+      "name": "Broken Telephone",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 16:24:43"
+    },
+    {
+      "code": "SUBAADDB",
+      "name": "Sub A Add B",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 16:26:16"
     }
   ]
 }
