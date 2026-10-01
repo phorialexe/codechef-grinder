@@ -1,5 +1,5 @@
 {
-  "total_solved": 422,
+  "total_solved": 426,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -422,7 +422,11 @@
     "VIDEOWORTH",
     "BIRDFARM",
     "GPUBUY",
-    "ALLEV"
+    "ALLEV",
+    "COINS",
+    "COLORB",
+    "UTKPLC",
+    "KEPLERSLAW"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3401,6 +3405,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-01 19:09:47"
+    },
+    {
+      "code": "COINS",
+      "name": "Bytelandian gold coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 22:01:30"
+    },
+    {
+      "code": "COLORB",
+      "name": "Coloured Orbs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 22:03:30"
+    },
+    {
+      "code": "UTKPLC",
+      "name": "Utkarsh and Placement tests",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-01 22:08:54"
+    },
+    {
+      "code": "KEPLERSLAW",
+      "name": "Keplers Law",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 22:10:25"
     }
   ]
 }
