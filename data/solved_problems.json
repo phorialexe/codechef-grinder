@@ -1,5 +1,5 @@
 {
-  "total_solved": 407,
+  "total_solved": 412,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -407,7 +407,12 @@
     "MINBOTTLES",
     "MODULO3",
     "LINCHESS",
-    "SPCP1"
+    "SPCP1",
+    "EQLZING",
+    "CHEFPAGES",
+    "GENE01",
+    "CHEFSOCKS",
+    "PRIME1"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -432,7 +437,8 @@
     "ELECTIONS",
     "ICECONE",
     "ANSLEAK",
-    "QNOT"
+    "QNOT",
+    "INPL"
   ],
   "history": [
     {
@@ -3280,6 +3286,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-09-30 21:39:46"
+    },
+    {
+      "code": "EQLZING",
+      "name": "Equalizing Numbers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:13:05"
+    },
+    {
+      "code": "CHEFPAGES",
+      "name": "Important Pages on CodeChef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:14:38"
+    },
+    {
+      "code": "GENE01",
+      "name": "Genes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:16:28"
+    },
+    {
+      "code": "CHEFSOCKS",
+      "name": "Chef and Socks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:17:40"
+    },
+    {
+      "code": "PRIME1",
+      "name": "Prime Generator",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-01 11:19:29"
     }
   ]
 }
