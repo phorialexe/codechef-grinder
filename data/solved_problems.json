@@ -1,5 +1,5 @@
 {
-  "total_solved": 436,
+  "total_solved": 441,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -436,7 +436,12 @@
     "MILEAGE",
     "CREDITS",
     "TABLET",
-    "CRCK"
+    "CRCK",
+    "MATCH_ALK",
+    "GIANT",
+    "AVG",
+    "ALLZR",
+    "CPRIVAL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3513,6 +3518,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-02 15:51:58"
+    },
+    {
+      "code": "MATCH_ALK",
+      "name": "Man of the Match",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 18:43:33"
+    },
+    {
+      "code": "GIANT",
+      "name": "Giant Wheel",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 18:46:09"
+    },
+    {
+      "code": "AVG",
+      "name": "Average Number",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 18:47:45"
+    },
+    {
+      "code": "ALLZR",
+      "name": "All Zero",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 18:49:31"
+    },
+    {
+      "code": "CPRIVAL",
+      "name": "Rivalry",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 18:51:04"
     }
   ]
 }
