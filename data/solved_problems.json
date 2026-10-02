@@ -1,5 +1,5 @@
 {
-  "total_solved": 430,
+  "total_solved": 436,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -430,7 +430,13 @@
     "WRITINGSPEED",
     "DEVSPORTS",
     "SLOOP",
-    "ZEROSTRING"
+    "ZEROSTRING",
+    "EQUALIZEAB",
+    "ALJMP",
+    "MILEAGE",
+    "CREDITS",
+    "TABLET",
+    "CRCK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3465,6 +3471,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-02 10:50:56"
+    },
+    {
+      "code": "EQUALIZEAB",
+      "name": "Equalize AB",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:42:36"
+    },
+    {
+      "code": "ALJMP",
+      "name": "Alternate Jumps",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-02 15:44:19"
+    },
+    {
+      "code": "MILEAGE",
+      "name": "Mileage matters",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:46:13"
+    },
+    {
+      "code": "CREDITS",
+      "name": "Complete the credits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:48:11"
+    },
+    {
+      "code": "TABLET",
+      "name": "Buying New Tablet",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:49:57"
+    },
+    {
+      "code": "CRCK",
+      "name": "Christmas Cake",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 15:51:58"
     }
   ]
 }
