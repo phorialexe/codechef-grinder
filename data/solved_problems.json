@@ -1,5 +1,5 @@
 {
-  "total_solved": 426,
+  "total_solved": 430,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -426,7 +426,11 @@
     "COINS",
     "COLORB",
     "UTKPLC",
-    "KEPLERSLAW"
+    "KEPLERSLAW",
+    "WRITINGSPEED",
+    "DEVSPORTS",
+    "SLOOP",
+    "ZEROSTRING"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3433,6 +3437,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-01 22:10:25"
+    },
+    {
+      "code": "WRITINGSPEED",
+      "name": "Writing Speed",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 10:45:39"
+    },
+    {
+      "code": "DEVSPORTS",
+      "name": "Devendra and Water Sports",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 10:47:32"
+    },
+    {
+      "code": "SLOOP",
+      "name": "Coldplay",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 10:49:21"
+    },
+    {
+      "code": "ZEROSTRING",
+      "name": "Zero String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-02 10:50:56"
     }
   ]
 }
