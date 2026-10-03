@@ -1,5 +1,5 @@
 {
-  "total_solved": 445,
+  "total_solved": 449,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -445,7 +445,11 @@
     "VAL142",
     "SUNDAY",
     "BUYPLSE",
-    "BIG"
+    "BIG",
+    "JGAMES",
+    "COVID_19",
+    "ALTERADD",
+    "NAME2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3585,6 +3589,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-02 21:31:58"
+    },
+    {
+      "code": "JGAMES",
+      "name": "Janmansh and Games",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 10:05:33"
+    },
+    {
+      "code": "COVID_19",
+      "name": "Covid and Theatre Tickets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 10:07:11"
+    },
+    {
+      "code": "ALTERADD",
+      "name": "Alternate Additions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 10:08:27"
+    },
+    {
+      "code": "NAME2",
+      "name": "Your Name is Mine",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 10:10:02"
     }
   ]
 }
