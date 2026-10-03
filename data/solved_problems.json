@@ -1,5 +1,5 @@
 {
-  "total_solved": 449,
+  "total_solved": 453,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -449,7 +449,11 @@
     "JGAMES",
     "COVID_19",
     "ALTERADD",
-    "NAME2"
+    "NAME2",
+    "CAKEMAKE",
+    "BMI",
+    "CHN09",
+    "P1BAR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3617,6 +3621,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-03 10:10:02"
+    },
+    {
+      "code": "CAKEMAKE",
+      "name": "Cake Making",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:16:26"
+    },
+    {
+      "code": "BMI",
+      "name": "Body Mass Index",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:18:19"
+    },
+    {
+      "code": "CHN09",
+      "name": "Malvika is peculiar about color of balloons",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:20:14"
+    },
+    {
+      "code": "P1BAR",
+      "name": "Basketball Score",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 14:21:58"
     }
   ]
 }
