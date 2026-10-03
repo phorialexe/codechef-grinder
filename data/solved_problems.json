@@ -1,5 +1,5 @@
 {
-  "total_solved": 458,
+  "total_solved": 464,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -458,7 +458,13 @@
     "VISA",
     "CRDGAME",
     "TSTROBOT",
-    "FINDK3"
+    "FINDK3",
+    "MESSI",
+    "EPISODES",
+    "BOMBTHEBASE",
+    "EITA",
+    "CAKEHALF",
+    "JMARKET"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3689,6 +3695,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-03 17:44:03"
+    },
+    {
+      "code": "MESSI",
+      "name": "Football Training",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:15:10"
+    },
+    {
+      "code": "EPISODES",
+      "name": "Episodes",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:17:32"
+    },
+    {
+      "code": "BOMBTHEBASE",
+      "name": "Bomb the base",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:18:57"
+    },
+    {
+      "code": "EITA",
+      "name": "Maximum Production",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:20:59"
+    },
+    {
+      "code": "CAKEHALF",
+      "name": "Let Me Eat Cake!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:22:37"
+    },
+    {
+      "code": "JMARKET",
+      "name": "Janmansh at Fruit Market",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 20:24:22"
     }
   ]
 }
