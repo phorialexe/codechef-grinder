@@ -1,5 +1,5 @@
 {
-  "total_solved": 453,
+  "total_solved": 458,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -453,7 +453,12 @@
     "CAKEMAKE",
     "BMI",
     "CHN09",
-    "P1BAR"
+    "P1BAR",
+    "CARCHOICE",
+    "VISA",
+    "CRDGAME",
+    "TSTROBOT",
+    "FINDK3"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3649,6 +3654,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-03 14:21:58"
+    },
+    {
+      "code": "CARCHOICE",
+      "name": "Car Choice",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:38:26"
+    },
+    {
+      "code": "VISA",
+      "name": "Chefland Visa",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:40:04"
+    },
+    {
+      "code": "CRDGAME",
+      "name": "Chef and Card Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:41:01"
+    },
+    {
+      "code": "TSTROBOT",
+      "name": "Testing Robot",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:42:38"
+    },
+    {
+      "code": "FINDK3",
+      "name": "FIND A and B",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-03 17:44:03"
     }
   ]
 }
