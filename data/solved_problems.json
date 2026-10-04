@@ -1,5 +1,5 @@
 {
-  "total_solved": 470,
+  "total_solved": 475,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -470,7 +470,12 @@
     "BFLY",
     "DRUNKALK",
     "BANKGLITCH",
-    "SURPLUS"
+    "SURPLUS",
+    "CARDGAME1",
+    "CUTESTR",
+    "HOLES",
+    "BRKSTICK",
+    "ADVITIYA"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3785,6 +3790,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-04 10:53:28"
+    },
+    {
+      "code": "CARDGAME1",
+      "name": "Card Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:44:52"
+    },
+    {
+      "code": "CUTESTR",
+      "name": "Cute Strings",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:46:37"
+    },
+    {
+      "code": "HOLES",
+      "name": "Holes in the text",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-04 14:48:09"
+    },
+    {
+      "code": "BRKSTICK",
+      "name": "Breaking Sticks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:49:13"
+    },
+    {
+      "code": "ADVITIYA",
+      "name": "Advitiya",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 14:51:02"
     }
   ]
 }
