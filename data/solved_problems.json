@@ -1,5 +1,5 @@
 {
-  "total_solved": 475,
+  "total_solved": 478,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -475,7 +475,10 @@
     "CUTESTR",
     "HOLES",
     "BRKSTICK",
-    "ADVITIYA"
+    "ADVITIYA",
+    "CHEFBAKES77",
+    "NEARESTCOURT",
+    "CALLIM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -501,7 +504,8 @@
     "ICECONE",
     "ANSLEAK",
     "QNOT",
-    "INPL"
+    "INPL",
+    "STREAK"
   ],
   "history": [
     {
@@ -3825,6 +3829,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-04 14:51:02"
+    },
+    {
+      "code": "CHEFBAKES77",
+      "name": "Chef Bakes Cake",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-04 17:52:13"
+    },
+    {
+      "code": "NEARESTCOURT",
+      "name": "Nearest Court",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 17:53:58"
+    },
+    {
+      "code": "CALLIM",
+      "name": "Calorie Limit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 17:54:54"
     }
   ]
 }
