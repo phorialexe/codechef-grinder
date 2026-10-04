@@ -1,5 +1,5 @@
 {
-  "total_solved": 478,
+  "total_solved": 484,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -478,7 +478,13 @@
     "ADVITIYA",
     "CHEFBAKES77",
     "NEARESTCOURT",
-    "CALLIM"
+    "CALLIM",
+    "INDEPENDENCE",
+    "TTENIS",
+    "QTOO_2523",
+    "EUREKA",
+    "MAXFUN",
+    "SHOEFIT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3850,6 +3856,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-04 17:54:54"
+    },
+    {
+      "code": "INDEPENDENCE",
+      "name": "Independence Day 101",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:30:31"
+    },
+    {
+      "code": "TTENIS",
+      "name": "Chef and Table Tennis",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:32:17"
+    },
+    {
+      "code": "QTOO_2523",
+      "name": "Bi_lindrome!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:33:45"
+    },
+    {
+      "code": "EUREKA",
+      "name": "N Queens Puzzle Solved !",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:35:06"
+    },
+    {
+      "code": "MAXFUN",
+      "name": "Maximise Function",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:36:00"
+    },
+    {
+      "code": "SHOEFIT",
+      "name": "Shoe Fit",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 20:37:19"
     }
   ]
 }
