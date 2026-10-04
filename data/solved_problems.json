@@ -1,5 +1,5 @@
 {
-  "total_solved": 464,
+  "total_solved": 470,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -464,7 +464,13 @@
     "BOMBTHEBASE",
     "EITA",
     "CAKEHALF",
-    "JMARKET"
+    "JMARKET",
+    "CARRYGOLD",
+    "APPLEORANGE",
+    "BFLY",
+    "DRUNKALK",
+    "BANKGLITCH",
+    "SURPLUS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3737,6 +3743,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-03 20:24:22"
+    },
+    {
+      "code": "CARRYGOLD",
+      "name": "Gold Mining",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:46:44"
+    },
+    {
+      "code": "APPLEORANGE",
+      "name": "Apples and oranges",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:48:07"
+    },
+    {
+      "code": "BFLY",
+      "name": "Butterfly",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:49:48"
+    },
+    {
+      "code": "DRUNKALK",
+      "name": "Drunk Alcoholic",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:50:49"
+    },
+    {
+      "code": "BANKGLITCH",
+      "name": "Bank Glitch",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:52:07"
+    },
+    {
+      "code": "SURPLUS",
+      "name": "Trade Surplus",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-04 10:53:28"
     }
   ]
 }
