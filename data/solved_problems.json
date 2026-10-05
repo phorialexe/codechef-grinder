@@ -1,5 +1,5 @@
 {
-  "total_solved": 488,
+  "total_solved": 493,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -488,7 +488,12 @@
     "TESTSERIES",
     "FIRSTANDLAST",
     "REMOVEBAD",
-    "VACCINE2"
+    "VACCINE2",
+    "LITRATE",
+    "TCG",
+    "CNOTE",
+    "BOP2",
+    "MAX6"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3930,6 +3935,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-05 11:58:44"
+    },
+    {
+      "code": "LITRATE",
+      "name": "Literacy Rate",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 18:19:39"
+    },
+    {
+      "code": "TCG",
+      "name": "Capital Gain Tax",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-05 18:23:58"
+    },
+    {
+      "code": "CNOTE",
+      "name": "Chef and Notebooks",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-05 18:29:09"
+    },
+    {
+      "code": "BOP2",
+      "name": "Color Festival",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 18:30:59"
+    },
+    {
+      "code": "MAX6",
+      "name": "Max Sixers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 18:32:29"
     }
   ]
 }
