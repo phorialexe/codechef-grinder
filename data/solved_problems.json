@@ -1,5 +1,5 @@
 {
-  "total_solved": 493,
+  "total_solved": 497,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -493,7 +493,11 @@
     "TCG",
     "CNOTE",
     "BOP2",
-    "MAX6"
+    "MAX6",
+    "ECHOECHO",
+    "AVOIDCONTACT",
+    "RCTGLD",
+    "LOOP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3970,6 +3974,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-05 18:32:29"
+    },
+    {
+      "code": "ECHOECHO",
+      "name": "Echo",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 23:23:18"
+    },
+    {
+      "code": "AVOIDCONTACT",
+      "name": "Avoid Contact",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-05 23:26:06"
+    },
+    {
+      "code": "RCTGLD",
+      "name": "Rectangled",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 23:27:57"
+    },
+    {
+      "code": "LOOP",
+      "name": "Circular Track",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-05 23:30:24"
     }
   ]
 }
