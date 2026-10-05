@@ -1,5 +1,5 @@
 {
-  "total_solved": 484,
+  "total_solved": 488,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -484,7 +484,11 @@
     "QTOO_2523",
     "EUREKA",
     "MAXFUN",
-    "SHOEFIT"
+    "SHOEFIT",
+    "TESTSERIES",
+    "FIRSTANDLAST",
+    "REMOVEBAD",
+    "VACCINE2"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -3898,6 +3902,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-04 20:37:19"
+    },
+    {
+      "code": "TESTSERIES",
+      "name": "Test Match Series",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 11:52:39"
+    },
+    {
+      "code": "FIRSTANDLAST",
+      "name": "First and Last",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 11:54:45"
+    },
+    {
+      "code": "REMOVEBAD",
+      "name": "Remove Bad elements",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 11:56:50"
+    },
+    {
+      "code": "VACCINE2",
+      "name": "Vaccine Distribution",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-05 11:58:44"
     }
   ]
 }
