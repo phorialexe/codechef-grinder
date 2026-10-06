@@ -1,5 +1,5 @@
 {
-  "total_solved": 497,
+  "total_solved": 502,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -497,7 +497,12 @@
     "ECHOECHO",
     "AVOIDCONTACT",
     "RCTGLD",
-    "LOOP"
+    "LOOP",
+    "PSGRADE",
+    "MODTEMP",
+    "TV",
+    "PASSINGGR",
+    "SUPINC"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4002,6 +4007,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-05 23:30:24"
+    },
+    {
+      "code": "PSGRADE",
+      "name": "Passing Marks",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 11:33:53"
+    },
+    {
+      "code": "MODTEMP",
+      "name": "Moderate Temperatures",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 11:36:09"
+    },
+    {
+      "code": "TV",
+      "name": "Television Channels",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 11:37:40"
+    },
+    {
+      "code": "PASSINGGR",
+      "name": "Passing Grade",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 11:39:10"
+    },
+    {
+      "code": "SUPINC",
+      "name": "Superincreasing",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-06 11:43:07"
     }
   ]
 }
