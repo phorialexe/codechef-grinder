@@ -1,5 +1,5 @@
 {
-  "total_solved": 502,
+  "total_solved": 506,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -502,7 +502,11 @@
     "MODTEMP",
     "TV",
     "PASSINGGR",
-    "SUPINC"
+    "SUPINC",
+    "MATPAN",
+    "NEIREM",
+    "RECTSQ",
+    "PIZZA_BURGER"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4042,6 +4046,34 @@
       "status": "Accepted",
       "attempts": 3,
       "time": "2026-10-06 11:43:07"
+    },
+    {
+      "code": "MATPAN",
+      "name": "Mathison and pangrams",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 15:50:46"
+    },
+    {
+      "code": "NEIREM",
+      "name": "Remaining Neighborhoods",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-06 15:53:12"
+    },
+    {
+      "code": "RECTSQ",
+      "name": "Farmer And His Plot",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 15:54:46"
+    },
+    {
+      "code": "PIZZA_BURGER",
+      "name": "Hungry Ashish",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 15:56:07"
     }
   ]
 }
