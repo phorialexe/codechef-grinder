@@ -1,5 +1,5 @@
 {
-  "total_solved": 512,
+  "total_solved": 517,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -512,7 +512,12 @@
     "ADVITIYA3",
     "BESTOFTENNIS",
     "TOYS",
-    "POTATOES"
+    "POTATOES",
+    "DICEGAME3",
+    "SELLCOIN",
+    "MDGT",
+    "ALTSTR",
+    "CHFPROFIT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4122,6 +4127,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-06 19:16:27"
+    },
+    {
+      "code": "DICEGAME3",
+      "name": "Dice Game 3",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 21:55:01"
+    },
+    {
+      "code": "SELLCOIN",
+      "name": "Selling Coins",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-06 21:56:51"
+    },
+    {
+      "code": "MDGT",
+      "name": "Lost in the Fest!!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 21:58:16"
+    },
+    {
+      "code": "ALTSTR",
+      "name": "Alternating String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 21:59:11"
+    },
+    {
+      "code": "CHFPROFIT",
+      "name": "Chef and Profits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-06 22:00:08"
     }
   ]
 }
