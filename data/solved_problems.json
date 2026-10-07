@@ -1,5 +1,5 @@
 {
-  "total_solved": 532,
+  "total_solved": 537,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -532,7 +532,12 @@
     "FKMC",
     "GROUPS",
     "BOWLBALL",
-    "CHEFARRP"
+    "CHEFARRP",
+    "PERMUT2",
+    "CANDYTYPE",
+    "SANDWICH7",
+    "SRTARR",
+    "STRP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4282,6 +4287,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-07 19:42:22"
+    },
+    {
+      "code": "PERMUT2",
+      "name": "Ambiguous Permutations",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 22:18:24"
+    },
+    {
+      "code": "CANDYTYPE",
+      "name": "Candy Types",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 22:20:12"
+    },
+    {
+      "code": "SANDWICH7",
+      "name": "Sandwiches",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 22:21:02"
+    },
+    {
+      "code": "SRTARR",
+      "name": "Sort the String",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 22:23:00"
+    },
+    {
+      "code": "STRP",
+      "name": "String protocol",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 22:24:31"
     }
   ]
 }
