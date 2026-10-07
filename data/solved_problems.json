@@ -1,5 +1,5 @@
 {
-  "total_solved": 521,
+  "total_solved": 526,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -521,7 +521,12 @@
     "PROC18A",
     "FRUITCHAAT",
     "CARDSWIPE",
-    "BBWIN"
+    "BBWIN",
+    "CHOCCUT",
+    "MASKPOL",
+    "MXSCWN",
+    "NO25PLS",
+    "TEA"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4194,6 +4199,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-07 11:41:30"
+    },
+    {
+      "code": "CHOCCUT",
+      "name": "Chocolate Cutting",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 16:20:15"
+    },
+    {
+      "code": "MASKPOL",
+      "name": "Mask Policy",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 16:21:29"
+    },
+    {
+      "code": "MXSCWN",
+      "name": "Maximum Score",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-07 16:25:24"
+    },
+    {
+      "code": "NO25PLS",
+      "name": "Imperfect Numbers",
+      "status": "Accepted",
+      "attempts": 3,
+      "time": "2026-10-07 16:29:45"
+    },
+    {
+      "code": "TEA",
+      "name": "Chef Drinks Tea",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 16:31:43"
     }
   ]
 }
