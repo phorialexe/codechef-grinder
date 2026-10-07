@@ -1,5 +1,5 @@
 {
-  "total_solved": 526,
+  "total_solved": 532,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -526,7 +526,13 @@
     "MASKPOL",
     "MXSCWN",
     "NO25PLS",
-    "TEA"
+    "TEA",
+    "OJUMPS",
+    "COUNTP",
+    "FKMC",
+    "GROUPS",
+    "BOWLBALL",
+    "CHEFARRP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4234,6 +4240,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-07 16:31:43"
+    },
+    {
+      "code": "OJUMPS",
+      "name": "Chef-jumping",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 19:33:46"
+    },
+    {
+      "code": "COUNTP",
+      "name": "Counting Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 19:35:00"
+    },
+    {
+      "code": "FKMC",
+      "name": "Fake Certificate",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 19:36:58"
+    },
+    {
+      "code": "GROUPS",
+      "name": "Chef and Groups",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 19:39:11"
+    },
+    {
+      "code": "BOWLBALL",
+      "name": "Bowling Balls",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 19:40:51"
+    },
+    {
+      "code": "CHEFARRP",
+      "name": "Chef and Subarrays",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 19:42:22"
     }
   ]
 }
