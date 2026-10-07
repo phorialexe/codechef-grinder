@@ -1,5 +1,5 @@
 {
-  "total_solved": 517,
+  "total_solved": 521,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -517,7 +517,11 @@
     "SELLCOIN",
     "MDGT",
     "ALTSTR",
-    "CHFPROFIT"
+    "CHFPROFIT",
+    "PROC18A",
+    "FRUITCHAAT",
+    "CARDSWIPE",
+    "BBWIN"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4162,6 +4166,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-06 22:00:08"
+    },
+    {
+      "code": "PROC18A",
+      "name": "The Great Run",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 11:23:23"
+    },
+    {
+      "code": "FRUITCHAAT",
+      "name": "Chef and His Fruit Stand",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 11:26:05"
+    },
+    {
+      "code": "CARDSWIPE",
+      "name": "Card Swipe",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-07 11:28:29"
+    },
+    {
+      "code": "BBWIN",
+      "name": "Extreme Basketball",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-07 11:41:30"
     }
   ]
 }
