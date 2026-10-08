@@ -1,5 +1,5 @@
 {
-  "total_solved": 548,
+  "total_solved": 554,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -548,7 +548,13 @@
     "EVENPSUM",
     "GMGM",
     "ASM120",
-    "CHRBUY"
+    "CHRBUY",
+    "MARARUN",
+    "FODCHAIN",
+    "MELTGOLD",
+    "SPCP4",
+    "SALE2",
+    "SSCRIPT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4410,6 +4416,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-08 16:30:15"
+    },
+    {
+      "code": "MARARUN",
+      "name": "Marathon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:29:28"
+    },
+    {
+      "code": "FODCHAIN",
+      "name": "Food Chain",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:31:23"
+    },
+    {
+      "code": "MELTGOLD",
+      "name": "Melt Gold",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:32:22"
+    },
+    {
+      "code": "SPCP4",
+      "name": " Am I Lucky!",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:33:59"
+    },
+    {
+      "code": "SALE2",
+      "name": "Buy 2 Get 1 Free",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:34:54"
+    },
+    {
+      "code": "SSCRIPT",
+      "name": "Strong Language",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 19:36:21"
     }
   ]
 }
