@@ -1,5 +1,5 @@
 {
-  "total_solved": 537,
+  "total_solved": 542,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -537,7 +537,12 @@
     "CANDYTYPE",
     "SANDWICH7",
     "SRTARR",
-    "STRP"
+    "STRP",
+    "FAIRSHARE",
+    "MAXCOUNT",
+    "ICE_CREAM",
+    "INCREAR",
+    "STICKCOMP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4322,6 +4327,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-07 22:24:31"
+    },
+    {
+      "code": "FAIRSHARE",
+      "name": "Fair Share Settlement",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 11:39:23"
+    },
+    {
+      "code": "MAXCOUNT",
+      "name": "Count of Maximum",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-08 11:41:01"
+    },
+    {
+      "code": "ICE_CREAM",
+      "name": "ICE CREAM",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 11:42:27"
+    },
+    {
+      "code": "INCREAR",
+      "name": "Equal Integers",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 11:43:28"
+    },
+    {
+      "code": "STICKCOMP",
+      "name": "Brick Comparisions",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 11:45:26"
     }
   ]
 }
