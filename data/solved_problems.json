@@ -1,5 +1,5 @@
 {
-  "total_solved": 542,
+  "total_solved": 548,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -542,7 +542,13 @@
     "MAXCOUNT",
     "ICE_CREAM",
     "INCREAR",
-    "STICKCOMP"
+    "STICKCOMP",
+    "CHEFBARBER",
+    "ABSTRING",
+    "EVENPSUM",
+    "GMGM",
+    "ASM120",
+    "CHRBUY"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4362,6 +4368,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-08 11:45:26"
+    },
+    {
+      "code": "CHEFBARBER",
+      "name": "Chef and the Hair Salon",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:22:12"
+    },
+    {
+      "code": "ABSTRING",
+      "name": "String Game",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:23:33"
+    },
+    {
+      "code": "EVENPSUM",
+      "name": "Even Pair Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:24:45"
+    },
+    {
+      "code": "GMGM",
+      "name": "Gun Master",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:27:11"
+    },
+    {
+      "code": "ASM120",
+      "name": "Sub or Swp",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:28:54"
+    },
+    {
+      "code": "CHRBUY",
+      "name": "Buying Chairs",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-08 16:30:15"
     }
   ]
 }
