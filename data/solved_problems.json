@@ -1,5 +1,5 @@
 {
-  "total_solved": 557,
+  "total_solved": 561,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -557,7 +557,11 @@
     "SSCRIPT",
     "APPENDOR",
     "PLAYPIAN",
-    "ADD1234"
+    "ADD1234",
+    "SUBCOST7",
+    "STONES",
+    "ORANGES",
+    "PGNATK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4482,6 +4486,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-08 22:33:52"
+    },
+    {
+      "code": "SUBCOST7",
+      "name": "Subscription Cost",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 11:32:20"
+    },
+    {
+      "code": "STONES",
+      "name": "Jewels and Stones",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 11:33:39"
+    },
+    {
+      "code": "ORANGES",
+      "name": "Too Many Oranges",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 11:35:19"
+    },
+    {
+      "code": "PGNATK",
+      "name": "Pigeon Attack",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 11:36:54"
     }
   ]
 }
