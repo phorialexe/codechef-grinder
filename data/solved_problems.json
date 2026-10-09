@@ -1,5 +1,5 @@
 {
-  "total_solved": 573,
+  "total_solved": 577,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -573,7 +573,11 @@
     "CS2023_GYM",
     "CHNGIT",
     "AIRM",
-    "CLEANUP"
+    "CLEANUP",
+    "MOOCHEF",
+    "CHFICRM",
+    "FIFTYPE",
+    "CALINTAKE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4610,6 +4614,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-09 19:09:28"
+    },
+    {
+      "code": "MOOCHEF",
+      "name": "Moody Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 21:53:55"
+    },
+    {
+      "code": "CHFICRM",
+      "name": "Chef and Icecream",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-09 21:56:04"
+    },
+    {
+      "code": "FIFTYPE",
+      "name": "Chef and Battery ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 21:57:44"
+    },
+    {
+      "code": "CALINTAKE",
+      "name": "Calorie Intake",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 21:59:51"
     }
   ]
 }
