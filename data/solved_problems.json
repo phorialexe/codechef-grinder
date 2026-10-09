@@ -1,5 +1,5 @@
 {
-  "total_solved": 567,
+  "total_solved": 573,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -567,7 +567,13 @@
     "ECOCLASS",
     "CHOCDISTRIB",
     "MAGICHF",
-    "TRAVELPS"
+    "TRAVELPS",
+    "QUALPREL",
+    "CCOOK",
+    "CS2023_GYM",
+    "CHNGIT",
+    "AIRM",
+    "CLEANUP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4562,6 +4568,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-09 16:13:00"
+    },
+    {
+      "code": "QUALPREL",
+      "name": "Qualifying to Pre-Elimination",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:02:06"
+    },
+    {
+      "code": "CCOOK",
+      "name": "Chef and Cook-Off",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:04:00"
+    },
+    {
+      "code": "CS2023_GYM",
+      "name": "Gymkhana Election IIIT-A",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:05:37"
+    },
+    {
+      "code": "CHNGIT",
+      "name": "Change It",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:06:58"
+    },
+    {
+      "code": "AIRM",
+      "name": "Airport Management",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:08:40"
+    },
+    {
+      "code": "CLEANUP",
+      "name": "Cleaning Up",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 19:09:28"
     }
   ]
 }
