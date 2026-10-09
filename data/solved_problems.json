@@ -1,5 +1,5 @@
 {
-  "total_solved": 561,
+  "total_solved": 567,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -561,7 +561,13 @@
     "SUBCOST7",
     "STONES",
     "ORANGES",
-    "PGNATK"
+    "PGNATK",
+    "BRUNCH",
+    "MOVIE7",
+    "ECOCLASS",
+    "CHOCDISTRIB",
+    "MAGICHF",
+    "TRAVELPS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4514,6 +4520,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-09 11:36:54"
+    },
+    {
+      "code": "BRUNCH",
+      "name": "Sunday Brunch",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:05:53"
+    },
+    {
+      "code": "MOVIE7",
+      "name": "Movie",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:08:04"
+    },
+    {
+      "code": "ECOCLASS",
+      "name": "Economics Class",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:09:03"
+    },
+    {
+      "code": "CHOCDISTRIB",
+      "name": "Chocolate Distribution",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:10:15"
+    },
+    {
+      "code": "MAGICHF",
+      "name": "Magician versus Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:11:44"
+    },
+    {
+      "code": "TRAVELPS",
+      "name": "Travel Pass",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-09 16:13:00"
     }
   ]
 }
