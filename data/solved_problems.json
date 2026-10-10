@@ -1,5 +1,5 @@
 {
-  "total_solved": 582,
+  "total_solved": 587,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -582,7 +582,12 @@
     "FARAWAY",
     "TWOROLL",
     "PHONEYR",
-    "TREE2"
+    "TREE2",
+    "EXISTENCE",
+    "CHEFSTUD",
+    "TOURIST",
+    "CHEFVACATION",
+    "PAINTCHRIS"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4682,6 +4687,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-10 10:58:57"
+    },
+    {
+      "code": "EXISTENCE",
+      "name": "Existence",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:13:42"
+    },
+    {
+      "code": "CHEFSTUD",
+      "name": "Chef and his Students",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:14:59"
+    },
+    {
+      "code": "TOURIST",
+      "name": "Tourist",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:16:32"
+    },
+    {
+      "code": "CHEFVACATION",
+      "name": "Chef on Vacation",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:18:16"
+    },
+    {
+      "code": "PAINTCHRIS",
+      "name": "Painting Walls",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 15:19:14"
     }
   ]
 }
