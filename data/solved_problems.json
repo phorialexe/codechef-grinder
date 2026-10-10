@@ -1,5 +1,5 @@
 {
-  "total_solved": 587,
+  "total_solved": 592,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -587,7 +587,12 @@
     "CHEFSTUD",
     "TOURIST",
     "CHEFVACATION",
-    "PAINTCHRIS"
+    "PAINTCHRIS",
+    "DARLIG",
+    "NEWPIECE",
+    "INDIVISIBLE",
+    "EQUALCOIN",
+    "SEQCLAMP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4722,6 +4727,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-10 15:19:14"
+    },
+    {
+      "code": "DARLIG",
+      "name": "Dark Light",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 18:03:04"
+    },
+    {
+      "code": "NEWPIECE",
+      "name": "New Piece",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 18:04:36"
+    },
+    {
+      "code": "INDIVISIBLE",
+      "name": "Indivisible",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 18:06:23"
+    },
+    {
+      "code": "EQUALCOIN",
+      "name": "Equal Coins",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 18:07:38"
+    },
+    {
+      "code": "SEQCLAMP",
+      "name": "Sequential Clamp",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-10 18:08:41"
     }
   ]
 }
