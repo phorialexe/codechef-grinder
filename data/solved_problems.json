@@ -1,5 +1,5 @@
 {
-  "total_solved": 607,
+  "total_solved": 613,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -607,7 +607,13 @@
     "MIXINGLIQ",
     "PR0BLEM",
     "DIVTHREE",
-    "PIZZAC"
+    "PIZZAC",
+    "BOOKPACK",
+    "CRDGAME3",
+    "PENALTY",
+    "POSSROLL",
+    "XYZ343",
+    "INSTDUM"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4882,6 +4888,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-11 15:38:33"
+    },
+    {
+      "code": "BOOKPACK",
+      "name": "Packing Books",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:29:00"
+    },
+    {
+      "code": "CRDGAME3",
+      "name": "Another Card Game Problem",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:30:59"
+    },
+    {
+      "code": "PENALTY",
+      "name": "Penalty Shots",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:32:54"
+    },
+    {
+      "code": "POSSROLL",
+      "name": "Possible Roll",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:34:00"
+    },
+    {
+      "code": "XYZ343",
+      "name": "Savings Account",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:34:59"
+    },
+    {
+      "code": "INSTDUM",
+      "name": "Inside The Stadium",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 18:36:07"
     }
   ]
 }
