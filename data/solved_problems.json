@@ -1,5 +1,5 @@
 {
-  "total_solved": 613,
+  "total_solved": 616,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -613,7 +613,10 @@
     "PENALTY",
     "POSSROLL",
     "XYZ343",
-    "INSTDUM"
+    "INSTDUM",
+    "NOWINNER",
+    "P2209",
+    "XLSL"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -640,7 +643,8 @@
     "ANSLEAK",
     "QNOT",
     "INPL",
-    "STREAK"
+    "STREAK",
+    "ADD12GAME"
   ],
   "history": [
     {
@@ -4930,6 +4934,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-11 18:36:07"
+    },
+    {
+      "code": "NOWINNER",
+      "name": "No Winner",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 21:05:43"
+    },
+    {
+      "code": "P2209",
+      "name": "Divisible Duel",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 21:08:39"
+    },
+    {
+      "code": "XLSL",
+      "name": "Clothing Store",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-11 21:11:09"
     }
   ]
 }
