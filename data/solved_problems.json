@@ -1,5 +1,5 @@
 {
-  "total_solved": 625,
+  "total_solved": 629,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -625,7 +625,11 @@
     "URCALC",
     "BUYLAMP",
     "WFWIN",
-    "CRICRANK"
+    "CRICRANK",
+    "SHUFFLIN",
+    "JOINING",
+    "GRIDBL",
+    "MANCODE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5027,6 +5031,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-12 19:01:36"
+    },
+    {
+      "code": "SHUFFLIN",
+      "name": "Shuffling Parities",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 21:53:02"
+    },
+    {
+      "code": "JOINING",
+      "name": "Joining Date",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 21:54:34"
+    },
+    {
+      "code": "GRIDBL",
+      "name": "Fill The Grid",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 21:55:44"
+    },
+    {
+      "code": "MANCODE",
+      "name": "The Man Code",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 21:57:02"
     }
   ]
 }
