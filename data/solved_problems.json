@@ -1,5 +1,5 @@
 {
-  "total_solved": 621,
+  "total_solved": 625,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -621,7 +621,11 @@
     "LAYERCAKE",
     "BID",
     "DECDISC",
-    "MIRJMP"
+    "MIRJMP",
+    "URCALC",
+    "BUYLAMP",
+    "WFWIN",
+    "CRICRANK"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4995,6 +4999,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-12 12:37:45"
+    },
+    {
+      "code": "URCALC",
+      "name": "Program Your Own CALCULATOR",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-12 18:55:56"
+    },
+    {
+      "code": "BUYLAMP",
+      "name": "Buy Lamps",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 18:58:27"
+    },
+    {
+      "code": "WFWIN",
+      "name": "Winning World Finals",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 19:00:02"
+    },
+    {
+      "code": "CRICRANK",
+      "name": "Cricket Ranking",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 19:01:36"
     }
   ]
 }
