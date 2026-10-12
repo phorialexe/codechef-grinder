@@ -1,5 +1,5 @@
 {
-  "total_solved": 629,
+  "total_solved": 633,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -629,7 +629,11 @@
     "SHUFFLIN",
     "JOINING",
     "GRIDBL",
-    "MANCODE"
+    "MANCODE",
+    "TWTCLOSE",
+    "CHEFTRANS",
+    "FBMATCH",
+    "PRDEXC"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5059,6 +5063,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-12 21:57:02"
+    },
+    {
+      "code": "TWTCLOSE",
+      "name": "Closing the Tweets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 23:48:57"
+    },
+    {
+      "code": "CHEFTRANS",
+      "name": "Chef and Vacation Transportation ",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 23:50:06"
+    },
+    {
+      "code": "FBMATCH",
+      "name": "Front-Back Matching",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 23:51:30"
+    },
+    {
+      "code": "PRDEXC",
+      "name": "Product Exceed",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 23:53:12"
     }
   ]
 }
