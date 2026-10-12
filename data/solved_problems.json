@@ -1,5 +1,5 @@
 {
-  "total_solved": 616,
+  "total_solved": 621,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -616,7 +616,12 @@
     "INSTDUM",
     "NOWINNER",
     "P2209",
-    "XLSL"
+    "XLSL",
+    "WHOMAKESP1",
+    "LAYERCAKE",
+    "BID",
+    "DECDISC",
+    "MIRJMP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -4955,6 +4960,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-11 21:11:09"
+    },
+    {
+      "code": "WHOMAKESP1",
+      "name": "Who Makes P1",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:31:05"
+    },
+    {
+      "code": "LAYERCAKE",
+      "name": "Layered Cake",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:33:00"
+    },
+    {
+      "code": "BID",
+      "name": "Pep Bidding",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:34:09"
+    },
+    {
+      "code": "DECDISC",
+      "name": "Decoration Discount",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:35:51"
+    },
+    {
+      "code": "MIRJMP",
+      "name": "Mirror Jump",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-12 12:37:45"
     }
   ]
 }
