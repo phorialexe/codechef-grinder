@@ -1,5 +1,5 @@
 {
-  "total_solved": 633,
+  "total_solved": 637,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -633,7 +633,11 @@
     "TWTCLOSE",
     "CHEFTRANS",
     "FBMATCH",
-    "PRDEXC"
+    "PRDEXC",
+    "QUEENATTACK",
+    "BUYTICK",
+    "COMP4",
+    "CHEGLOVE"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5091,6 +5095,34 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-12 23:53:12"
+    },
+    {
+      "code": "QUEENATTACK",
+      "name": "The Attack of Queen",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:13:36"
+    },
+    {
+      "code": "BUYTICK",
+      "name": "Buying Tickets",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:14:42"
+    },
+    {
+      "code": "COMP4",
+      "name": "Competition of 4",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:16:08"
+    },
+    {
+      "code": "CHEGLOVE",
+      "name": "Chef and Glove",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 12:17:43"
     }
   ]
 }
