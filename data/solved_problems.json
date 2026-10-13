@@ -1,5 +1,5 @@
 {
-  "total_solved": 642,
+  "total_solved": 647,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -642,7 +642,12 @@
     "ABNOMAT",
     "S10E",
     "BADMINTON",
-    "CHEFZOT"
+    "CHEFZOT",
+    "SBTG",
+    "ATTENDU",
+    "MAKEMONEY",
+    "AGENTCHEF",
+    "CHEFSTEP"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5163,6 +5168,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 16:59:57"
+    },
+    {
+      "code": "SBTG",
+      "name": "Sabotage",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 19:58:32"
+    },
+    {
+      "code": "ATTENDU",
+      "name": "Minimum Attendance Requirement",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 19:59:51"
+    },
+    {
+      "code": "MAKEMONEY",
+      "name": "Make Money",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 20:01:00"
+    },
+    {
+      "code": "AGENTCHEF",
+      "name": "Selling Insurance",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 20:02:50"
+    },
+    {
+      "code": "CHEFSTEP",
+      "name": "Chef and Steps",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-13 20:04:24"
     }
   ]
 }
