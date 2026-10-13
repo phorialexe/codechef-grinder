@@ -1,5 +1,5 @@
 {
-  "total_solved": 647,
+  "total_solved": 650,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -647,7 +647,10 @@
     "ATTENDU",
     "MAKEMONEY",
     "AGENTCHEF",
-    "CHEFSTEP"
+    "CHEFSTEP",
+    "FRUITS",
+    "QBGI",
+    "PSEUDOSORT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5203,6 +5206,27 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-13 20:04:24"
+    },
+    {
+      "code": "FRUITS",
+      "name": "Chef and Fruits",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 21:59:25"
+    },
+    {
+      "code": "QBGI",
+      "name": "Bar Queue",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:01:08"
+    },
+    {
+      "code": "PSEUDOSORT",
+      "name": "Pseudo Sorted Array",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 22:02:18"
     }
   ]
 }
