@@ -1,5 +1,5 @@
 {
-  "total_solved": 637,
+  "total_solved": 642,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -637,7 +637,12 @@
     "QUEENATTACK",
     "BUYTICK",
     "COMP4",
-    "CHEGLOVE"
+    "CHEGLOVE",
+    "ENTERTAIN",
+    "ABNOMAT",
+    "S10E",
+    "BADMINTON",
+    "CHEFZOT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5123,6 +5128,41 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 12:17:43"
+    },
+    {
+      "code": "ENTERTAIN",
+      "name": "Entertainments",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:54:37"
+    },
+    {
+      "code": "ABNOMAT",
+      "name": "Non-matching Name",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:55:36"
+    },
+    {
+      "code": "S10E",
+      "name": "Phone Prices",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:56:58"
+    },
+    {
+      "code": "BADMINTON",
+      "name": "Badminton Serves",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:58:19"
+    },
+    {
+      "code": "CHEFZOT",
+      "name": "Chef and Subarray",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-13 16:59:57"
     }
   ]
 }
