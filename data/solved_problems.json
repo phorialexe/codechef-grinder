@@ -1,5 +1,5 @@
 {
-  "total_solved": 659,
+  "total_solved": 664,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -659,7 +659,12 @@
     "REACHWT",
     "BLUEBLACK",
     "CHEFCONTEST",
-    "P2BAR"
+    "P2BAR",
+    "AABBCCDD",
+    "STRONGTABLE",
+    "ODDSEVENS",
+    "COVIDLQ",
+    "DIGSMPAR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5303,6 +5308,41 @@
       "status": "Accepted",
       "attempts": 2,
       "time": "2026-10-14 18:15:46"
+    },
+    {
+      "code": "AABBCCDD",
+      "name": "AabBcCDd",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:00:04"
+    },
+    {
+      "code": "STRONGTABLE",
+      "name": "Table Strength",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:01:28"
+    },
+    {
+      "code": "ODDSEVENS",
+      "name": "Odds and Evens",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:02:25"
+    },
+    {
+      "code": "COVIDLQ",
+      "name": "COVID Pandemic and Long Queue",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:03:36"
+    },
+    {
+      "code": "DIGSMPAR",
+      "name": "Digit Sum Parities",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 21:04:48"
     }
   ]
 }
