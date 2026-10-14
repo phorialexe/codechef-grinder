@@ -1,5 +1,5 @@
 {
-  "total_solved": 650,
+  "total_solved": 656,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -650,7 +650,13 @@
     "CHEFSTEP",
     "FRUITS",
     "QBGI",
-    "PSEUDOSORT"
+    "PSEUDOSORT",
+    "BURGERS2",
+    "BUSROW",
+    "BOTTOM",
+    "MAYOR_PARTY",
+    "MAXADJSUM",
+    "REACHWT"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5227,6 +5233,48 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-13 22:02:18"
+    },
+    {
+      "code": "BURGERS2",
+      "name": "Hungry Chef",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:47:04"
+    },
+    {
+      "code": "BUSROW",
+      "name": "Bus Rows",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:48:03"
+    },
+    {
+      "code": "BOTTOM",
+      "name": "Guess the bottom face",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:49:26"
+    },
+    {
+      "code": "MAYOR_PARTY",
+      "name": "Peaceful Party",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:50:44"
+    },
+    {
+      "code": "MAXADJSUM",
+      "name": "Maximise Adjacent Sum",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:52:34"
+    },
+    {
+      "code": "REACHWT",
+      "name": "Reach Weight",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 09:54:29"
     }
   ]
 }
