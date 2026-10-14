@@ -684,7 +684,11 @@
     "QNOT",
     "INPL",
     "STREAK",
-    "ADD12GAME"
+    "ADD12GAME",
+    "LARGODDSTRIN",
+    "DICENUM",
+    "CHEAPFUEL",
+    "CARSELL"
   ],
   "history": [
     {
