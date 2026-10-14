@@ -1,5 +1,5 @@
 {
-  "total_solved": 656,
+  "total_solved": 659,
   "solved_codes": [
     "START01",
     "FLOW001",
@@ -656,7 +656,10 @@
     "BOTTOM",
     "MAYOR_PARTY",
     "MAXADJSUM",
-    "REACHWT"
+    "REACHWT",
+    "BLUEBLACK",
+    "CHEFCONTEST",
+    "P2BAR"
   ],
   "failed_codes": [
     "CCLEARN",
@@ -5279,6 +5282,27 @@
       "status": "Accepted",
       "attempts": 1,
       "time": "2026-10-14 09:54:29"
+    },
+    {
+      "code": "BLUEBLACK",
+      "name": "Blue and Black Pens",
+      "status": "Accepted",
+      "attempts": 1,
+      "time": "2026-10-14 18:11:42"
+    },
+    {
+      "code": "CHEFCONTEST",
+      "name": "Chef and Contest",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-14 18:13:48"
+    },
+    {
+      "code": "P2BAR",
+      "name": "Signal",
+      "status": "Accepted",
+      "attempts": 2,
+      "time": "2026-10-14 18:15:46"
     }
   ]
 }
